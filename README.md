@@ -1,12 +1,12 @@
 ### Olá, eu sou o Matheus Ribeiro 👋
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning React JS
+- 🔭 I’m currently working on web full-stack
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on front-end projects
 - 🤔 I’m looking for help with React JS
 - 📫 How to reach me: matheuslimaribeiro15@outlook.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: I'm a pharmacist/developer
+- ⚡ Fun fact: I'm a developer/pharmacist
 
 <div align="center">
   <a href="https://github.com/mdmath15">
