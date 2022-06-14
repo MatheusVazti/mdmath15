@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on web full-stack
 - 🌱 I’m currently learning NodeJS and Typescript
-- 👯 I’m looking to collaborate on front-end projects
-- 🤔 I’m looking for help with React 
+- 👯 I’m looking to collaborate on full-stackk projects
 - 📫 How to reach me: matheuslimaribeiro15@outlook.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: I'm a developer/pharmacist
