@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus Ribeiro 👋
 
 - 🔭 I’m currently working on web full-stack
-- 🌱 I’m currently learning NodeJS and Typescript
+- 🌱 I’m currently learning Storybook, Jest
 - 👯 I’m looking to collaborate on full-stackk projects
 - 📫 How to reach me: matheuslimaribeiro15@outlook.com
 - 😄 Pronouns: ele/dele
