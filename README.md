@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on web full-stack
 - 🌱 I’m currently learning Storybook, Jest
-- 👯 I’m looking to collaborate on full-stackk projects
+- 👯 I’m looking to collaborate on full-stack projects
 - 📫 How to reach me: matheuslimaribeiro15@outlook.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: I'm a developer/pharmacist
@@ -16,12 +16,15 @@
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Math-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Math-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Math-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg">
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Math-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Math-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Math-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+  <img align="center" alt="Math-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Math-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
-  <img align="center" alt="Math-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 </div>
   
   ##
